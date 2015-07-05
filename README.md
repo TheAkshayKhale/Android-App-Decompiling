@@ -1,5 +1,4 @@
 #Android-App-Decompiling
-=======================
 ##Tools for Android App Decompiling
 1. Winrar/Winzip/7Zip (Recommended 7Zip since open source) [download 7-zip] (http://www.7-zip.org/download.html)
 2. JDGui (or any java decompiler) [download JDGui] (http://code.google.com/p/innlab/downloads/detail?name=jd-gui-0.3.3.windows.zip)
