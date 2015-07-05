@@ -4,7 +4,7 @@
 2. JDGui (or any java decompiler) [download JDGui] (http://code.google.com/p/innlab/downloads/detail?name=jd-gui-0.3.3.windows.zip)
 3. dex2jar [download Dex2Jar] (http://code.google.com/p/dex2jar/downloads/detail?name=dex2jar-0.0.9.15.zip)
 
-Steps
+###Steps
 
 1. Now just extract all the archives to anywhere and open the .apk file (android app) file with winrar/7Zip and extract is also.
 2. Now copy the “Classes.dex”(which contains all the source code of the android App) file from android app folder into dex2jar extracted folder and run following command on command prompt(windows).
